@@ -30,3 +30,35 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  background: grey;
+  color: white;
+}
+
+.container {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  background: darkblue;
+  color: white;
+}
+
+.release {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  background: white;
+  color: darkblue;
+}
+
+.imdblink {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  background: grey;
+  color: white;
+}
