@@ -9,8 +9,9 @@ class Release extends Component {
   render(){
     return (
       <div className="release">
-        <h4>{this.props.name}</h4>
-        <a href={this.props.url}>{this.props.url}</a>
+        {/* <h4>{this.props.name}</h4> */}
+        {/* <a href={this.props.url}>{this.props.url}</a> */}
+        <a href={this.props.url}><h4>{this.props.name}</h4></a>
       </div>
     );
   }
